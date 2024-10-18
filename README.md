@@ -1,5 +1,6 @@
-#Foul Play: Uncovering Trends in NCAA Women's Basketball
-##Motivation
+# Foul Play: Uncovering Trends in NCAA Women's Basketball
+
+Motivation
 NCAA women’s basketball is experiencing a surge in popularity. The 2024 NCAA Women’s Final Four Championship between the Iowa Hawkeyes and South Carolina Gamecocks drew an impressive 18.9 million viewers, setting a new ESPN record for the most-watched college basketball game of all time, regardless of gender. In contrast, the previous year’s Championship game between the LSU Tigers and Iowa Hawkeyes garnered 9.9 million viewers on ESPN (source: https://espnpressroom.com/us/press-releases/2024/04/2024-ncaa-womens-championship-and-final-four-on-espn-platforms-is-most-watched-on-record/).
 
 Although the popularity of women's basketball has grown, it has been accompanied by a rise in unfair and negative media portrayals. In 2024, Los Angeles Times columnist Ben Bolch wrote an article where he referred to the LSU Women's Basketball team as 'dirty debutantes' while describing the UCLA team as 'being as wholesome as a miniature stuffed Bruin mascot' (source: https://www.latimes.com/sports/ucla/story/2024-03-29/ucla-lsu-america-sweethearts-versus-basketball-villains). Dawn Staley, the coach of USC's team, has often defended the media's portrayal of her athletes by stating 'we're not bar fighters' (source: https://nypost.com/2023/04/01/dawn-staley-rails-against-south-carolina-bar-fighters-narrative/). 
