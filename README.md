@@ -9,7 +9,7 @@ Although the popularity of women's basketball has grown, it has been accompanied
 This project aims to investigate demographic differences across women's basketball programs and determine whether more diverse conferences produced a higher frequency of fouls during the 2023-2024 season. If we don't see any trends, what is affecting the way fouls are being called? Additionally, it seeks to analyze patterns in foul occurrences to help teams strategize more effectively and avoid negative media coverage.
 
 ## Questions
-1) Are there are demographic differences in NCAA Power Five Conferences? Are there any trends when we focus on Women's College Basketball?
+1) Are there demographic differences in NCAA Power Five Conferences? Are there any trends when we focus on Women's College Basketball?
 2) Do more diverse conferences tend to get more personal foul calls? Do certain players?
 3) What are some predictors of fouls?
 4) If diversity isn't a clear indicator, what is?
