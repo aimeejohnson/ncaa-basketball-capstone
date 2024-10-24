@@ -1,5 +1,8 @@
 # Foul Play: Uncovering Trends in NCAA Women's Basketball
 
+## Presentation & Dashboards
+Tableau Public: https://public.tableau.com/shared/KYQGCQQBF?:display_count=n&:origin=viz_share_link
+
 ## Motivation
 NCAA women’s basketball is experiencing a surge in popularity. The 2024 NCAA Women’s Final Four Championship between the Iowa Hawkeyes and South Carolina Gamecocks drew an impressive [18.9 million viewers](https://espnpressroom.com/us/press-releases/2024/04/2024-ncaa-womens-championship-and-final-four-on-espn-platforms-is-most-watched-on-record/), setting a new ESPN record for the most-watched college basketball game of all time, regardless of gender. In contrast, the previous year’s Championship game between the LSU Tigers and Iowa Hawkeyes garnered 9.9 million viewers.
 
