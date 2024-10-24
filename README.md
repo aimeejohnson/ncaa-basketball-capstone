@@ -28,6 +28,6 @@ This project aims to investigate demographic differences across women's basketba
 * Play by Play Data: https://wehoop.sportsdataverse.org/
 
 ## Conclusion
-Pac-12 has the highest percentage of non-white female athletes, while the Big Ten has the smallest. Black women have been the largest demographic in Women’s Basketball over the past decade regardless of conference, although that percentage has decreased overtime. There was no clear relationship between conference diversity and personal fouls per game. However, getting roster specific demographics may help further investigate potential racial bias. There was a strong correlation between aggressive offensive styles like steals per game and pace and personal fouls per game.
+Pac-12 had the highest percentage of non-white female athletes, while the Big Ten had the lowest. Black women have been the largest demographic in women’s basketball over the past decade regardless of conference, although that percentage has decreased overtime. There was no clear relationship between conference diversity and personal fouls per game. However, getting roster specific demographics may help further investigate potential racial bias. There was a strong correlation between aggressive offensive styles like steals per game and pace and personal fouls per game.
 
 
