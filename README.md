@@ -9,7 +9,25 @@ Although the popularity of women's basketball has grown, it has been accompanied
 This project aims to investigate demographic differences across women's basketball programs and determine whether more diverse conferences produced a higher frequency of fouls during the 2023-2024 season. If we don't see any trends, what is affecting the way fouls are being called? Additionally, it seeks to analyze patterns in foul occurrences to help teams strategize more effectively and avoid negative media coverage.
 
 ## Questions
-1) Are there demographic differences in NCAA Power Five Conferences? Are there any trends when we focus on Women's College Basketball?
-2) Do more diverse conferences tend to get more personal foul calls? Do certain players?
-3) What are some predictors of fouls?
-4) If diversity isn't a clear indicator, what is?
+1) What are the demographic differences across Power Five conferences?
+2) Are there notable trends in women's college basketball when analyzing demographic data, particularly in relation to player performance and outcomes?
+3) Do conferences with greater racial or ethnic diversity experience more personal foul calls, and are specific types of players more likely to receive these calls?
+4) What key factors or player characteristics are strong predictors of personal fouls in NCAA women's basketball?
+5) If diversity isn't a significant factor in determining foul calls, what other variables might better explain the patterns?
+
+## Tools Used
+* Python: For data exploration, cleaning, and data aggregation
+* Excel: Cleaning up raw NCAA demographic data
+* Tableau: Creating visiuals, dashboards, and a story.
+* Git: For public display and data housing
+
+## Data Sources
+* NCAA Demographics: https://www.ncaa.org/sports/2013/11/20/diversity-research.aspx
+* Women's College Basketball Rosters: https://github.com/Sports-Roster-Data/womens-college-basketball
+* Season Statistics: https://www.sports-reference.com/cbb/seasons/women/2024-school-stats.html
+* Play by Play Data: https://wehoop.sportsdataverse.org/
+
+## Conclusion
+Pac-12 has the highest percentage of non-white female athletes, while the Big Ten has the smallest. Black women have been the largest demographic in Women’s Basketball over the past decade regardless of conference, although that percentage has decreased overtime. There was no clear relationship between conference diversity and personal fouls per game. However, getting roster specific demographics may help further investigate potential racial bias. There was a strong correlation between aggressive offensive styles like steals per game and pace and personal fouls per game.
+
+
